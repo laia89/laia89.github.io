@@ -1,0 +1,13 @@
+#about .row {
+	position: relative;
+}
+
+.about-rooster {
+	width: 304px;
+    position: absolute;
+    bottom: -48px;
+    /* left: 50px; */
+    /* right: -39px; */
+    transform: rotate(-20deg);
+    left: -135px;
+}
